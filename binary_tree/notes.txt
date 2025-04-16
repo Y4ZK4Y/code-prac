@@ -1,0 +1,7 @@
+// Binary Trees!
+// nodes - lnks between nodes are called edges or links
+// why sould you want a tree data structure?
+// hierarchical in nature, and connected - like family relationships - writing a compiler - filesystems
+// access data more quickly - better than arrays - binary search tree
+// binary meaning each node can have up to 2 kids
+//
