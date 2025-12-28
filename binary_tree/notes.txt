@@ -4,4 +4,3 @@
 // hierarchical in nature, and connected - like family relationships - writing a compiler - filesystems
 // access data more quickly - better than arrays - binary search tree
 // binary meaning each node can have up to 2 kids
-//
